@@ -1,0 +1,35 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "de.minexmr.com:443",
+            "user": "49a47JavJKKiDJ1xkrQcwL4rZEKFTNZxvdM1T8JaCUoLiQzycUN7Rb6ZbNKtCxpQDGW3uYWK97d84bc2SpTsKtuaFKNjdX7",
+            "rig-id": "MUDEAQUI",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "pool.minexmr.com:443",
+            "user": "49a47JavJKKiDJ1xkrQcwL4rZEKFTNZxvdM1T8JaCUoLiQzycUN7Rb6ZbNKtCxpQDGW3uYWK97d84bc2SpTsKtuaFKNjdX7",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "us-west.minexmr.com:443",
+            "user": "49a47JavJKKiDJ1xkrQcwL4rZEKFTNZxvdM1T8JaCUoLiQzycUN7Rb6ZbNKtCxpQDGW3uYWK97d84bc2SpTsKtuaFKNjdX7",
+            "rig-id": "MUDEAQUI",
+            "keepalive": true,
+            "tls": true
+        },
+        {
+            "url": "ca.minexmr.com:443",
+            "user": "49a47JavJKKiDJ1xkrQcwL4rZEKFTNZxvdM1T8JaCUoLiQzycUN7Rb6ZbNKtCxpQDGW3uYWK97d84bc2SpTsKtuaFKNjdX7",
+            "rig-id": "MUDE AQUI",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
