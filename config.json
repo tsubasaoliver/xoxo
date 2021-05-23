@@ -14,6 +14,7 @@
         {
             "url": "pool.minexmr.com:443",
             "user": "49a47JavJKKiDJ1xkrQcwL4rZEKFTNZxvdM1T8JaCUoLiQzycUN7Rb6ZbNKtCxpQDGW3uYWK97d84bc2SpTsKtuaFKNjdX7",
+            "rig-id": "MUDEAQUI",
             "keepalive": true,
             "tls": true
         },
